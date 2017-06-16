@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "weqdsf"
+baseURL = "https:\/\/weed.sdf\/s"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758381"
+subfolder = "\/s"
